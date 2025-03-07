@@ -130,8 +130,8 @@ img {
 
 /* Header Styles */
 .header {
-    padding-top: 120px;
-    padding-bottom: 64px;
+    padding-top: 350px;
+    padding-bottom: 400px;
     background: linear-gradient(to right, #6366f1, #8b5cf6);
     color: white;
     text-align: center;
